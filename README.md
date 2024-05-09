@@ -1,5 +1,5 @@
 <div align="center">
- <img src="https://github.com/Aspasht/Aspasht/blob/main/mygif.gif" width="600" height="300">
+ <img src="https://github.com/Aspasht/Aspasht/blob/main/mygif.gif" width="400" height="300">
 </div>
 <div>
 :hash:	 <code>aspasht@aspasht-[~] whoami</code></br>
