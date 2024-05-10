@@ -3,7 +3,7 @@
 </div>
 <div>
 :hash:	 <code>aspasht@aspasht-[~] whoami</code></br>
-I am a seasoned full-stack developer based in Nepal :triangular_flag_on_post:, equipped with over 5 years of experience in crafting software solutions and tools. My expertise spans across both front-end and back-end development, allowing me to create robust and efficient applications that meet the diverse needs of clients and users alike. From conceptualization to deployment, I thrive on turning ideas into tangible, functional products that drive innovation and deliver results.
+I am a seasoned full-stack developer based in Nepal :triangular_flag_on_post:, equipped with over 5 years of experience in crafting software solutions and tools. My expertise spans across both front-end and back-end development, allowing me to create robust and efficient applications that meet the diverse needs of clients and users alike. 
 </div>
 
 # 💻 Tech Stack:
