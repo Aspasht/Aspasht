@@ -2,9 +2,11 @@
  - 👩🏽‍💻 "From bits to bytes, I make it happen"
  - 🦀 I’m currently learning rust.
  - 💞️ I’m looking to collaborate on backend with 🇯‌🇸‌, 🇹🇸‌ or 🐍.
- - 📫 How to reach me: ```debugwithaspasht@gmail.com ```
-      -  ![𝕏 ](https://x.com/aspasht) </br>
+ - 📫 How to reach me:
+      -  ``` debugwithaspasht@gmail.com  ```
       -  https://aspasht.github.io
+      -  https://x.com/aspasht
+     
 
 
 <div>
