@@ -19,7 +19,7 @@ I am a self-taught full-stack developer based in Nepal :triangular_flag_on_post:
 
 
 ## :hash:	 <code>aspasht@aspasht-[~] show stack</code></br>
-</br> ![python](https://avatars.githubusercontent.com/u/1525981?s=100&v=4) &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; ![go](https://avatars.githubusercontent.com/u/4314092?s=100&v=4) &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/react-icons/react-icons/master/react-icons.svg" width="100" height="100"> &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width="100" height="100"> </br>
+</br> <img src="https://github.com/Aspasht/Aspasht/blob/main/rust-512px.png?raw=true" width="100" height="100"> &nbsp;&nbsp;&nbsp;&nbsp; ![python](https://avatars.githubusercontent.com/u/1525981?s=100&v=4) &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; ![go](https://avatars.githubusercontent.com/u/4314092?s=100&v=4) &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/react-icons/react-icons/master/react-icons.svg" width="100" height="100"> &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width="100" height="100"> </br>
 
 </br>
 
