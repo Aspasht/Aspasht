@@ -1,7 +1,7 @@
- - 👋 I’m Sagar Pariyar 🇳🇵
+ - 👋 I’m Aspasht 🇳🇵
  - 👩🏽‍💻 "From bits to bytes, I make it happen"
- - 🦀 I’m currently learning rust.
- - 💞️ I’m looking to collaborate on backend with 🇯‌🇸‌, 🇹🇸‌ or 🐍.
+ - 🦀 I'm in love with Rust.
+ - 💞️ Feel free to contact for collaboration 🦀, 🇯‌🇸‌, 🇹🇸‌ or 🐍.
  - 📫 How to reach me:
       -  ``` debugwithaspasht@gmail.com  ```
       -  https://aspasht.github.io
